@@ -1,0 +1,843 @@
+Season,Home_Team,Away_Team,Home_Score,Away_Score,Home_Goal_Diff,Away_Goal_Diff,Home_Last_5_Wins,Away_Last_5_Wins,Result_Encoded,Home_Last_5_Points,Away_Last_5_Points,H2H_Home_Wins,H2H_Home_Losses,H2H_Away_Wins,H2H_Away_Losses,H2H_Draws
+2012,Elman FC,Badbaado FC,3,1,2,-2,1,0,1,3,2,3,0,0,3,1
+2012,Sahafi FC,Jeenyo FC,1,1,0,0,1,0,0,5,2,0,3,3,0,3
+2012,Heegan SC,Dekedda SC,1,1,0,0,2,3,0,7,10,6,6,6,6,6
+2012,Mogadishu City Club,Horseed SC,1,1,0,0,3,4,0,11,13,8,3,3,8,7
+2012,Jeenyo FC,Elman FC,1,1,0,0,3,1,0,9,5,5,4,4,5,7
+2012,Badbaado FC,Dekedda SC,2,3,-1,1,0,3,-1,0,10,0,3,3,0,1
+2012,Sahafi FC,Horseed SC,1,1,0,0,1,4,0,5,13,0,3,3,0,3
+2012,Heegan SC,Mogadishu City Club,3,2,1,-1,2,1,1,7,6,3,6,6,3,8
+2012,Elman FC,Dekedda SC,4,0,4,-4,1,3,1,3,10,7,7,7,7,3
+2012,Jeenyo FC,Horseed SC,0,0,0,0,3,4,0,9,13,7,6,6,7,3
+2012,Badbaado FC,Mogadishu City Club,0,3,-3,3,0,1,-1,0,6,0,3,3,0,1
+2012,Sahafi FC,Heegan SC,0,1,-1,1,1,3,-1,5,11,1,3,3,1,2
+2012,Horseed SC,Elman FC,1,3,-2,2,3,1,-1,11,5,6,6,6,6,5
+2012,Dekedda SC,Mogadishu City Club,1,1,0,0,1,1,0,5,6,6,5,5,6,6
+2012,Jeenyo FC,Heegan SC,0,0,0,0,3,3,0,9,11,2,7,7,2,7
+2012,Badbaado FC,Sahafi FC,0,1,-1,1,0,0,-1,0,1,0,6,6,0,0
+2012,Elman FC,Mogadishu City Club,1,1,0,0,1,1,0,3,6,2,7,7,2,9
+2012,Horseed SC,Heegan SC,2,2,0,0,3,3,0,11,11,3,6,6,3,8
+2012,Dekedda SC,Sahafi FC,0,0,0,0,1,0,0,5,1,4,0,0,4,2
+2012,Jeenyo FC,Badbaado FC,4,0,4,-4,3,0,1,9,2,4,0,0,4,0
+2012,Heegan SC,Elman FC,0,3,-3,3,2,1,-1,7,5,6,6,6,6,6
+2012,Mogadishu City Club,Sahafi FC,1,0,1,-1,3,0,1,11,1,4,0,0,4,2
+2012,Horseed SC,Badbaado FC,2,0,2,-2,3,0,1,11,2,4,0,0,4,0
+2012,Dekedda SC,Jeenyo FC,1,1,0,0,1,0,0,5,2,8,4,4,8,4
+2012,Elman FC,Sahafi FC,2,1,1,-1,1,0,1,3,1,4,2,2,4,0
+2012,Heegan SC,Badbaado FC,3,1,2,-2,2,0,1,7,2,4,0,0,4,0
+2012,Mogadishu City Club,Jeenyo FC,1,1,0,0,3,0,0,11,2,8,4,4,8,4
+2012,Horseed SC,Dekedda SC,2,1,1,-1,3,3,1,11,10,6,4,4,6,7
+2012,Badbaado FC,Elman FC,2,5,-3,3,0,1,-1,0,5,0,3,3,0,1
+2012,Jeenyo FC,Sahafi FC,1,1,0,0,3,0,0,9,1,3,0,0,3,3
+2012,Dekedda SC,Heegan SC,2,4,-2,2,1,3,-1,5,11,6,6,6,6,6
+2012,Horseed SC,Mogadishu City Club,0,2,-2,2,3,1,-1,11,6,3,8,8,3,7
+2012,Elman FC,Jeenyo FC,1,2,-1,1,1,0,-1,3,2,4,5,5,4,7
+2012,Dekedda SC,Badbaado FC,5,1,4,-4,1,0,1,5,2,3,0,0,3,1
+2012,Horseed SC,Sahafi FC,0,0,0,0,3,0,0,11,1,3,0,0,3,3
+2012,Mogadishu City Club,Heegan SC,1,1,0,0,3,3,0,11,11,6,3,3,6,8
+2012,Dekedda SC,Elman FC,2,3,-1,1,1,1,-1,5,5,7,7,7,7,3
+2012,Horseed SC,Jeenyo FC,1,2,-1,1,3,0,-1,11,2,6,7,7,6,3
+2012,Mogadishu City Club,Badbaado FC,2,2,0,0,3,0,0,11,2,3,0,0,3,1
+2012,Heegan SC,Sahafi FC,2,0,2,-2,2,0,1,7,1,3,1,1,3,2
+2012,Elman FC,Horseed SC,2,0,2,-2,1,4,1,3,13,6,6,6,6,5
+2012,Mogadishu City Club,Dekedda SC,1,2,-1,1,3,3,-1,11,10,5,6,6,5,6
+2012,Heegan SC,Jeenyo FC,0,1,-1,1,2,0,-1,7,2,7,2,2,7,7
+2012,Sahafi FC,Badbaado FC,2,1,1,-1,1,0,1,5,2,6,0,0,6,0
+2012,Mogadishu City Club,Elman FC,1,2,-1,1,3,1,-1,11,5,7,2,2,7,9
+2012,Heegan SC,Horseed SC,1,0,1,-1,2,4,1,7,13,6,3,3,6,8
+2012,Sahafi FC,Dekedda SC,0,0,0,0,1,3,0,5,10,0,4,4,0,2
+2012,Badbaado FC,Jeenyo FC,1,3,-2,2,0,0,-1,0,2,0,4,4,0,0
+2012,Elman FC,Heegan SC,1,3,-2,2,1,3,-1,3,11,6,6,6,6,6
+2012,Sahafi FC,Mogadishu City Club,0,0,0,0,1,1,0,5,6,0,4,4,0,2
+2012,Badbaado FC,Horseed SC,0,1,-1,1,0,4,-1,0,13,0,4,4,0,0
+2012,Jeenyo FC,Dekedda SC,1,1,0,0,3,3,0,9,10,4,8,8,4,4
+2012,Sahafi FC,Elman FC,0,2,-2,2,1,1,-1,5,5,2,4,4,2,0
+2012,Badbaado FC,Heegan SC,0,3,-3,3,0,3,-1,0,11,0,4,4,0,0
+2012,Jeenyo FC,Mogadishu City Club,1,0,1,-1,3,1,1,9,6,4,8,8,4,4
+2012,Dekedda SC,Horseed SC,2,2,0,0,1,4,0,5,13,4,6,6,4,7
+2013,Albeder,Ummah Hospital,0,0,0,0,0,0,0,2,4,0,0,0,0,2
+2013,Geeska Afrika FC,Midnimo FC,2,1,1,-1,0,3,1,0,9,2,4,4,2,0
+2013,Sahafi FC,Badbaado FC,1,0,1,-1,1,0,1,5,2,6,0,0,6,0
+2013,Bariga Dhexe,Jazeera SC,2,1,1,-1,0,0,1,0,1,3,1,1,3,0
+2013,SomaliFruit FC,Gantaalaha Afgooye FC,2,0,2,-2,1,1,1,4,5,1,1,1,1,0
+2013,Raadsan FC,Gasko FC,4,2,2,-2,2,0,1,8,1,3,1,1,3,0
+2013,Badbaado FC,Albeder,1,1,0,0,0,1,0,0,6,0,0,0,0,2
+2013,Jamhuuriya FC,Jazeera SC,2,3,-1,1,1,0,-1,5,1,1,3,3,1,0
+2013,Ummah Hospital,Gantaalaha Afgooye FC,2,1,1,-1,2,1,1,8,5,1,0,0,1,1
+2013,Bariga Dhexe,Gasko FC,6,0,6,-6,0,0,1,0,1,1,0,0,1,1
+2013,SomaliFruit FC,Madbacadda FC,2,3,-1,1,1,1,-1,4,6,1,1,1,1,0
+2013,Waxool FC,Raadsan FC,1,1,0,0,0,2,0,0,8,0,1,1,0,1
+2013,Albeder,Gantaalaha Afgooye FC,3,2,1,-1,0,1,1,2,5,1,0,0,1,1
+2013,Jamhuuriya FC,Gasko FC,1,0,1,-1,1,0,1,5,1,3,1,1,3,0
+2013,Ummah Hospital,Madbacadda FC,2,0,2,-2,2,1,1,8,6,1,0,0,1,1
+2013,Geeska Afrika FC,Raadsan FC,1,2,-1,1,0,2,-1,0,8,1,4,4,1,1
+2013,Sahafi FC,SomaliFruit FC,3,1,2,-2,1,1,1,5,4,4,0,0,4,0
+2013,Bariga Dhexe,Waxool FC,1,1,0,0,0,2,0,0,6,1,2,2,1,1
+2013,Jazeera SC,Gasko FC,1,0,1,-1,1,0,1,3,1,4,0,0,4,0
+2013,Gantaalaha Afgooye FC,Madbacadda FC,1,0,1,-1,2,1,1,8,6,1,0,0,1,1
+2013,Midnimo FC,Raadsan FC,1,2,-1,1,2,2,-1,7,8,2,4,4,2,1
+2013,Badbaado FC,SomaliFruit FC,0,5,-5,5,0,1,-1,0,4,0,2,2,0,0
+2013,Jamhuuriya FC,Waxool FC,1,1,0,0,1,2,0,5,6,0,0,0,0,2
+2013,Ummah Hospital,Sahafi FC,3,1,2,-2,2,0,1,8,1,1,1,1,1,0
+2013,Geeska Afrika FC,Bariga Dhexe,0,2,-2,2,0,1,-1,0,4,0,2,2,0,0
+2013,Albeder,Madbacadda FC,0,1,-1,1,0,1,-1,2,6,1,1,1,1,0
+2013,Jazeera SC,Waxool FC,1,3,-2,2,1,2,-1,3,6,1,2,2,1,1
+2013,Gantaalaha Afgooye FC,Sahafi FC,0,3,-3,3,2,0,-1,8,1,1,1,1,1,0
+2013,Midnimo FC,Bariga Dhexe,1,0,1,-1,2,1,1,7,4,1,1,1,1,0
+2013,Badbaado FC,Ummah Hospital,1,1,0,0,0,0,0,0,4,0,1,1,0,1
+2013,Jamhuuriya FC,Geeska Afrika FC,1,1,0,0,1,1,0,5,4,1,2,2,1,1
+2013,SomaliFruit FC,Albeder,1,1,0,0,1,1,0,4,6,1,0,0,1,1
+2013,Gasko FC,Waxool FC,2,5,-3,3,3,2,-1,9,6,0,2,2,0,0
+2013,Madbacadda FC,Sahafi FC,1,1,0,0,0,0,0,0,1,0,0,0,0,1
+2013,Jazeera SC,Geeska Afrika FC,1,1,0,0,1,1,0,3,4,3,0,0,3,1
+2013,Gantaalaha Afgooye FC,Badbaado FC,0,2,-2,2,2,0,-1,8,2,0,2,2,0,0
+2013,Midnimo FC,Jamhuuriya FC,1,1,0,0,2,1,0,7,3,1,1,1,1,2
+2013,Albeder,Sahafi FC,0,3,-3,3,0,0,-1,2,1,0,2,2,0,0
+2013,Raadsan FC,Bariga Dhexe,1,2,-1,1,2,1,-1,8,4,0,2,2,0,0
+2013,SomaliFruit FC,Ummah Hospital,1,1,0,0,1,0,0,4,4,1,0,0,1,1
+2013,Gasko FC,Geeska Afrika FC,4,2,2,-2,3,1,1,9,4,3,1,1,3,0
+2013,Madbacadda FC,Badbaado FC,1,2,-1,1,0,0,-1,0,2,1,1,1,1,0
+2013,Waxool FC,Geeska Afrika FC,1,1,0,0,0,1,0,0,4,1,0,0,1,1
+2013,Raadsan FC,Jamhuuriya FC,0,2,-2,2,2,1,-1,8,3,2,2,2,2,0
+2013,Gasko FC,Midnimo FC,0,0,0,0,3,3,0,9,9,0,2,2,0,2
+2013,Bariga Dhexe,Jamhuuriya FC,0,1,-1,1,0,1,-1,0,3,0,2,2,0,0
+2013,Waxool FC,Midnimo FC,3,0,3,-3,0,3,1,0,9,2,0,0,2,0
+2013,Raadsan FC,Jazeera SC,3,2,1,-1,2,0,1,8,1,3,1,1,3,1
+2013,Jazeera SC,Midnimo FC,2,1,1,-1,1,3,1,3,9,1,4,4,1,3
+2013,Midnimo FC,Geeska Afrika FC,2,1,1,-1,2,1,1,7,4,4,2,2,4,0
+2013,Ummah Hospital,Albeder,2,2,0,0,2,1,0,8,6,0,0,0,0,2
+2013,Jazeera SC,Bariga Dhexe,0,3,-3,3,1,1,-1,3,4,1,3,3,1,0
+2013,Badbaado FC,Sahafi FC,0,2,-2,2,0,0,-1,0,1,0,6,6,0,0
+2013,Gantaalaha Afgooye FC,SomaliFruit FC,1,0,1,-1,2,1,1,8,4,1,1,1,1,0
+2013,Gasko FC,Raadsan FC,2,1,1,-1,3,2,1,9,8,1,3,3,1,0
+2013,Jazeera SC,Jamhuuriya FC,3,2,1,-1,1,1,1,3,3,3,1,1,3,0
+2013,Albeder,Badbaado FC,1,1,0,0,0,0,0,2,2,0,0,0,0,2
+2013,Gantaalaha Afgooye FC,Ummah Hospital,1,1,0,0,2,0,0,8,4,0,1,1,0,1
+2013,Gasko FC,Bariga Dhexe,0,0,0,0,3,1,0,9,4,0,1,1,0,1
+2013,Raadsan FC,Waxool FC,2,1,1,-1,2,2,1,8,6,1,0,0,1,1
+2013,Madbacadda FC,SomaliFruit FC,0,3,-3,3,0,1,-1,0,4,1,1,1,1,0
+2013,Gantaalaha Afgooye FC,Albeder,1,1,0,0,2,1,0,8,6,0,1,1,0,1
+2013,Gasko FC,Jamhuuriya FC,1,2,-1,1,3,1,-1,9,3,1,3,3,1,0
+2013,Raadsan FC,Geeska Afrika FC,1,1,0,0,2,1,0,8,4,4,1,1,4,1
+2013,Madbacadda FC,Ummah Hospital,0,0,0,0,0,0,0,0,4,0,1,1,0,1
+2013,Waxool FC,Bariga Dhexe,3,1,2,-2,0,1,1,0,4,2,1,1,2,1
+2013,SomaliFruit FC,Sahafi FC,1,3,-2,2,1,0,-1,4,1,0,4,4,0,0
+2013,Gasko FC,Jazeera SC,0,1,-1,1,3,0,-1,9,1,0,4,4,0,0
+2013,Raadsan FC,Midnimo FC,0,0,0,0,2,3,0,8,9,4,2,2,4,1
+2013,Madbacadda FC,Gantaalaha Afgooye FC,3,3,0,0,0,1,0,0,5,0,1,1,0,1
+2013,Waxool FC,Jamhuuriya FC,0,0,0,0,0,1,0,0,3,0,0,0,0,2
+2013,SomaliFruit FC,Badbaado FC,1,0,1,-1,1,0,1,4,2,2,0,0,2,0
+2013,Bariga Dhexe,Geeska Afrika FC,3,0,3,-3,0,1,1,0,4,2,0,0,2,0
+2013,Sahafi FC,Ummah Hospital,4,2,2,-2,1,0,1,5,4,1,1,1,1,0
+2013,Madbacadda FC,Albeder,1,2,-1,1,0,1,-1,0,6,1,1,1,1,0
+2013,Waxool FC,Jazeera SC,1,1,0,0,0,0,0,0,1,2,1,1,2,1
+2013,Bariga Dhexe,Midnimo FC,6,0,6,-6,0,3,1,0,9,1,1,1,1,0
+2013,Sahafi FC,Gantaalaha Afgooye FC,1,2,-1,1,1,1,-1,5,5,1,1,1,1,0
+2013,Geeska Afrika FC,Jamhuuriya FC,1,3,-2,2,0,1,-1,0,3,2,1,1,2,1
+2013,Ummah Hospital,Badbaado FC,2,1,1,-1,2,0,1,8,2,1,0,0,1,1
+2013,Waxool FC,Gasko FC,3,1,2,-2,0,0,1,0,1,2,0,0,2,0
+2013,Albeder,SomaliFruit FC,2,3,-1,1,0,1,-1,2,4,0,1,1,0,1
+2013,Geeska Afrika FC,Jazeera SC,2,3,-1,1,0,0,-1,0,1,0,3,3,0,1
+2013,Jamhuuriya FC,Midnimo FC,2,0,2,-2,1,3,1,5,9,1,1,1,1,2
+2013,Badbaado FC,Gantaalaha Afgooye FC,1,0,1,-1,0,1,1,0,5,2,0,0,2,0
+2013,Sahafi FC,Albeder,3,1,2,-2,1,1,1,5,6,2,0,0,2,0
+2013,Bariga Dhexe,Raadsan FC,2,1,1,-1,0,2,1,0,8,2,0,0,2,0
+2013,Ummah Hospital,SomaliFruit FC,2,3,-1,1,2,1,-1,8,4,0,1,1,0,1
+2013,Geeska Afrika FC,Gasko FC,3,0,3,-3,0,0,1,0,1,1,3,3,1,0
+2013,Badbaado FC,Madbacadda FC,0,2,-2,2,0,1,-1,0,6,1,1,1,1,0
+2013,Midnimo FC,Jazeera SC,2,2,0,0,2,0,0,7,1,4,1,1,4,3
+2013,Geeska Afrika FC,Waxool FC,1,5,-4,4,0,2,-1,0,6,0,1,1,0,1
+2013,Jamhuuriya FC,Raadsan FC,0,1,-1,1,1,2,-1,5,8,2,2,2,2,0
+2013,Midnimo FC,Gasko FC,2,2,0,0,2,0,0,7,1,2,0,0,2,2
+2013,Jamhuuriya FC,Bariga Dhexe,3,2,1,-1,1,1,1,5,4,2,0,0,2,0
+2013,Midnimo FC,Waxool FC,1,3,-2,2,2,2,-1,7,6,0,2,2,0,0
+2013,Jazeera SC,Raadsan FC,2,3,-1,1,1,2,-1,3,8,1,3,3,1,1
+2013,Heegan SC,Gaadiidka FC,3,2,1,-1,2,3,1,7,9,12,1,1,12,2
+2013,Horseed SC,Dekedda SC,0,3,-3,3,3,3,-1,11,10,6,4,4,6,7
+2013,Jeenyo FC,Batroolka FC,2,0,2,-2,3,1,1,9,3,4,0,0,4,2
+2013,Elman FC,Mogadishu City Club,1,3,-2,2,1,1,-1,3,6,2,7,7,2,9
+2013,Dekedda SC,Heegan SC,1,2,-1,1,1,3,-1,5,11,6,6,6,6,6
+2013,Gaadiidka FC,Batroolka FC,1,0,1,-1,0,1,1,1,3,3,1,1,3,2
+2013,Horseed SC,Mogadishu City Club,2,2,0,0,3,1,0,11,6,3,8,8,3,7
+2014,Jeenyo FC,Elman FC,0,2,-2,2,3,1,-1,9,5,5,4,4,5,7
+2014,Heegan SC,Batroolka FC,4,2,2,-2,2,1,1,7,3,6,0,0,6,0
+2014,Dekedda SC,Mogadishu City Club,2,4,-2,2,1,1,-1,5,6,6,5,5,6,6
+2014,Gaadiidka FC,Elman FC,0,3,-3,3,0,1,-1,1,5,4,9,9,4,2
+2014,Horseed SC,Jeenyo FC,2,4,-2,2,3,0,-1,11,2,6,7,7,6,3
+2014,Mogadishu City Club,Heegan SC,1,0,1,-1,3,3,1,11,11,6,3,3,6,8
+2014,Batroolka FC,Elman FC,1,2,-1,1,0,1,-1,1,5,1,4,4,1,1
+2014,Dekedda SC,Jeenyo FC,0,3,-3,3,1,0,-1,5,2,8,4,4,8,4
+2014,Gaadiidka FC,Horseed SC,2,2,0,0,0,4,0,1,13,4,8,8,4,4
+2014,Heegan SC,Elman FC,1,2,-1,1,2,1,-1,7,5,6,6,6,6,6
+2014,Mogadishu City Club,Jeenyo FC,1,1,0,0,3,0,0,11,2,8,4,4,8,4
+2014,Batroolka FC,Horseed SC,1,3,-2,2,0,4,-1,1,13,0,5,5,0,1
+2014,Dekedda SC,Gaadiidka FC,1,1,0,0,1,3,0,5,9,8,1,1,8,7
+2014,Jeenyo FC,Heegan SC,0,1,-1,1,3,3,-1,9,11,2,7,7,2,7
+2014,Elman FC,Horseed SC,3,3,0,0,1,4,0,3,13,6,6,6,6,5
+2014,Mogadishu City Club,Gaadiidka FC,3,2,1,-1,3,3,1,11,9,12,1,1,12,2
+2014,Batroolka FC,Dekedda SC,0,1,-1,1,0,3,-1,1,10,1,5,5,1,0
+2014,Jeenyo FC,Gaadiidka FC,2,0,2,-2,3,3,1,9,9,4,6,6,4,4
+2014,Heegan SC,Horseed SC,3,0,3,-3,2,4,1,7,13,6,3,3,6,8
+2014,Elman FC,Dekedda SC,2,0,2,-2,1,3,1,3,10,7,7,7,7,3
+2014,Mogadishu City Club,Batroolka FC,4,1,3,-3,3,1,1,11,3,5,0,0,5,1
+2014,Gaadiidka FC,Heegan SC,1,2,-1,1,0,3,-1,1,11,1,12,12,1,2
+2014,Dekedda SC,Horseed SC,0,1,-1,1,1,4,-1,5,13,4,6,6,4,7
+2014,Jeenyo FC,Batroolka FC,1,1,0,0,3,1,0,9,3,4,0,0,4,2
+2014,Mogadishu City Club,Elman FC,0,0,0,0,3,1,0,11,5,7,2,2,7,9
+2014,Heegan SC,Dekedda SC,1,2,-1,1,2,3,-1,7,10,6,6,6,6,6
+2014,Batroolka FC,Gaadiidka FC,0,2,-2,2,0,3,-1,1,9,1,3,3,1,2
+2014,Mogadishu City Club,Horseed SC,2,0,2,-2,3,4,1,11,13,8,3,3,8,7
+2014,Elman FC,Jeenyo FC,2,5,-3,3,1,0,-1,3,2,4,5,5,4,7
+2014,Batroolka FC,Heegan SC,1,3,-2,2,0,3,-1,1,11,0,6,6,0,0
+2014,Mogadishu City Club,Dekedda SC,2,1,1,-1,3,3,1,11,10,5,6,6,5,6
+2014,Elman FC,Gaadiidka FC,3,1,2,-2,1,3,1,3,9,9,4,4,9,2
+2014,Jeenyo FC,Horseed SC,1,0,1,-1,3,4,1,9,13,7,6,6,7,3
+2014,Heegan SC,Mogadishu City Club,0,2,-2,2,2,1,-1,7,6,3,6,6,3,8
+2014,Elman FC,Batroolka FC,8,0,8,-8,1,1,1,3,3,4,1,1,4,1
+2014,Jeenyo FC,Dekedda SC,1,1,0,0,3,3,0,9,10,4,8,8,4,4
+2014,Horseed SC,Gaadiidka FC,3,2,1,-1,3,3,1,11,9,8,4,4,8,4
+2014,Elman FC,Heegan SC,2,2,0,0,1,3,0,3,11,6,6,6,6,6
+2014,Jeenyo FC,Mogadishu City Club,1,1,0,0,3,1,0,9,6,4,8,8,4,4
+2014,Horseed SC,Batroolka FC,6,1,5,-5,3,1,1,11,3,5,0,0,5,1
+2014,Gaadiidka FC,Dekedda SC,0,0,0,0,0,3,0,1,10,1,8,8,1,7
+2014,Heegan SC,Jeenyo FC,1,1,0,0,2,0,0,7,2,7,2,2,7,7
+2014,Horseed SC,Elman FC,1,1,0,0,3,1,0,11,5,6,6,6,6,5
+2014,Gaadiidka FC,Mogadishu City Club,1,2,-1,1,0,1,-1,1,6,1,12,12,1,2
+2014,Dekedda SC,Batroolka FC,1,2,-1,1,1,1,-1,5,3,5,1,1,5,0
+2014,Horseed SC,Heegan SC,3,3,0,0,3,3,0,11,11,3,6,6,3,8
+2014,Gaadiidka FC,Jeenyo FC,3,1,2,-2,0,0,1,1,2,6,4,4,6,4
+2014,Dekedda SC,Elman FC,0,3,-3,3,1,1,-1,5,5,7,7,7,7,3
+2014,Batroolka FC,Mogadishu City Club,1,7,-6,6,0,1,-1,1,6,0,5,5,0,1
+2014,Geeska Afrika FC,Gasko FC,0,1,-1,1,0,0,-1,0,1,1,3,3,1,0
+2014,Jamhuuriya FC,Raadsan FC,3,0,3,-3,1,2,1,5,8,2,2,2,2,0
+2014,Midnimo FC,Gasko FC,3,0,3,-3,2,0,1,7,1,2,0,0,2,2
+2014,Geeska Afrika FC,Raadsan FC,3,1,2,-2,0,2,1,0,8,1,4,4,1,1
+2014,Jazeera SC,Midnimo FC,2,3,-1,1,1,3,-1,3,9,1,4,4,1,3
+2014,Gasko FC,Raadsan FC,0,4,-4,4,3,2,-1,9,8,1,3,3,1,0
+2014,Midnimo FC,Raadsan FC,4,3,1,-1,2,2,1,7,8,2,4,4,2,1
+2014,Jazeera SC,Jamhuuriya FC,1,2,-1,1,1,1,-1,3,3,3,1,1,3,0
+2014,Jamhuuriya FC,Midnimo FC,1,1,0,0,1,3,0,5,9,1,1,1,1,2
+2014,Jazeera SC,Geeska Afrika FC,3,2,1,-1,1,1,1,3,4,3,0,0,3,1
+2014,Jamhuuriya FC,Geeska Afrika FC,1,3,-2,2,1,1,-1,5,4,1,2,2,1,1
+2014,Jazeera SC,Gasko FC,2,0,2,-2,1,0,1,3,1,4,0,0,4,0
+2014,Geeska Afrika FC,Midnimo FC,3,2,1,-1,0,3,1,0,9,2,4,4,2,0
+2014,Jamhuuriya FC,Gasko FC,3,1,2,-2,1,0,1,5,1,3,1,1,3,0
+2014,Raadsan FC,Jazeera SC,1,2,-1,1,2,0,-1,8,1,3,1,1,3,1
+2014,Gasko FC,Geeska Afrika FC,2,1,1,-1,3,1,1,9,4,3,1,1,3,0
+2014,Raadsan FC,Jamhuuriya FC,3,2,1,-1,2,1,1,8,3,2,2,2,2,0
+2014,Gasko FC,Midnimo FC,0,5,-5,5,3,3,-1,9,9,0,2,2,0,2
+2014,Raadsan FC,Geeska Afrika FC,3,1,2,-2,2,1,1,8,4,4,1,1,4,1
+2014,Midnimo FC,Jazeera SC,2,2,0,0,2,0,0,7,1,4,1,1,4,3
+2014,Raadsan FC,Gasko FC,3,2,1,-1,2,0,1,8,1,3,1,1,3,0
+2014,Raadsan FC,Midnimo FC,1,7,-6,6,2,3,-1,8,9,4,2,2,4,1
+2014,Jamhuuriya FC,Jazeera SC,2,3,-1,1,1,0,-1,5,1,1,3,3,1,0
+2014,Midnimo FC,Jamhuuriya FC,9,2,7,-7,2,1,1,7,3,1,1,1,1,2
+2014,Geeska Afrika FC,Jazeera SC,1,3,-2,2,0,0,-1,0,1,0,3,3,0,1
+2014,Geeska Afrika FC,Jamhuuriya FC,2,1,1,-1,0,1,1,0,3,2,1,1,2,1
+2014,Gasko FC,Jazeera SC,0,1,-1,1,3,0,-1,9,1,0,4,4,0,0
+2014,Midnimo FC,Geeska Afrika FC,5,2,3,-3,2,1,1,7,4,4,2,2,4,0
+2014,Horseed SC,Elman FC,2,3,-1,1,3,1,-1,11,5,6,6,6,6,5
+2014,Gasko FC,Jamhuuriya FC,4,1,3,-3,3,1,1,9,3,1,3,3,1,0
+2014,Jazeera SC,Raadsan FC,0,2,-2,2,1,2,-1,3,8,1,3,3,1,1
+2014,Jeenyo FC,Heegan SC,1,3,-2,2,3,3,-1,9,11,2,7,7,2,7
+2014,SomaliFruit FC,Dekedda SC,3,1,2,-2,1,3,1,4,10,2,0,0,2,0
+2014,Mogadishu City Club,Gaadiidka FC,1,1,0,0,3,3,0,11,9,12,1,1,12,2
+2014,Batroolka FC,Sahafi FC,2,3,-1,1,0,0,-1,1,1,0,2,2,0,0
+2014,Heegan SC,Horseed SC,4,0,4,-4,2,4,1,7,13,6,3,3,6,8
+2014,Elman FC,Dekedda SC,1,1,0,0,1,3,0,3,10,7,7,7,7,3
+2014,Jeenyo FC,Gaadiidka FC,4,2,2,-2,3,3,1,9,9,4,6,6,4,4
+2015,Sahafi FC,SomaliFruit FC,2,0,2,-2,1,1,1,5,4,4,0,0,4,0
+2015,Mogadishu City Club,Batroolka FC,3,0,3,-3,3,1,1,11,3,5,0,0,5,1
+2015,Horseed SC,Dekedda SC,0,1,-1,1,3,3,-1,11,10,6,4,4,6,7
+2015,Heegan SC,Gaadiidka FC,1,0,1,-1,2,3,1,7,9,12,1,1,12,2
+2015,Elman FC,Sahafi FC,0,2,-2,2,1,0,-1,3,1,4,2,2,4,0
+2015,Jeenyo FC,Batroolka FC,4,1,3,-3,3,1,1,9,3,4,0,0,4,2
+2015,SomaliFruit FC,Mogadishu City Club,1,2,-1,1,1,1,-1,4,6,0,2,2,0,0
+2015,Gaadiidka FC,Horseed SC,0,1,-1,1,0,4,-1,1,13,4,8,8,4,4
+2015,Dekedda SC,Sahafi FC,2,1,1,-1,1,0,1,5,1,4,0,0,4,2
+2015,Batroolka FC,Heegan SC,0,4,-4,4,0,3,-1,1,11,0,6,6,0,0
+2015,Mogadishu City Club,Elman FC,1,1,0,0,3,1,0,11,5,7,2,2,7,9
+2015,Jeenyo FC,SomaliFruit FC,5,0,5,-5,3,1,1,9,4,1,0,0,1,1
+2015,Horseed SC,Sahafi FC,2,1,1,-1,3,0,1,11,1,3,0,0,3,3
+2015,Gaadiidka FC,Batroolka FC,3,0,3,-3,0,1,1,1,3,3,1,1,3,2
+2015,Dekedda SC,Mogadishu City Club,0,2,-2,2,1,1,-1,5,6,6,5,5,6,6
+2015,SomaliFruit FC,Heegan SC,1,8,-7,7,1,3,-1,4,11,0,2,2,0,0
+2015,Elman FC,Jeenyo FC,1,1,0,0,1,0,0,3,2,4,5,5,4,7
+2015,Batroolka FC,Horseed SC,2,2,0,0,0,4,0,1,13,0,5,5,0,1
+2015,Sahafi FC,Mogadishu City Club,0,0,0,0,1,1,0,5,6,0,4,4,0,2
+2015,Dekedda SC,Jeenyo FC,0,1,-1,1,1,0,-1,5,2,8,4,4,8,4
+2015,Elman FC,Heegan SC,1,0,1,-1,1,3,1,3,11,6,6,6,6,6
+2015,Horseed SC,Mogadishu City Club,0,2,-2,2,3,1,-1,11,6,3,8,8,3,7
+2015,Batroolka FC,SomaliFruit FC,1,2,-1,1,0,1,-1,1,4,1,1,1,1,0
+2015,Sahafi FC,Jeenyo FC,0,0,0,0,1,0,0,5,2,0,3,3,0,3
+2015,Gaadiidka FC,Elman FC,0,0,0,0,0,1,0,1,5,4,9,9,4,2
+2015,Dekedda SC,Heegan SC,0,2,-2,2,1,3,-1,5,11,6,6,6,6,6
+2015,SomaliFruit FC,Horseed SC,2,0,2,-2,1,4,1,4,13,1,1,1,1,0
+2015,Batroolka FC,Elman FC,1,3,-2,2,0,1,-1,1,5,1,4,4,1,1
+2015,Mogadishu City Club,Jeenyo FC,0,3,-3,3,3,0,-1,11,2,8,4,4,8,4
+2015,Sahafi FC,Heegan SC,3,3,0,0,1,3,0,5,11,1,3,3,1,2
+2015,Gaadiidka FC,Dekedda SC,0,1,-1,1,0,3,-1,1,10,1,8,8,1,7
+2015,Horseed SC,Jeenyo FC,0,1,-1,1,3,0,-1,11,2,6,7,7,6,3
+2015,SomaliFruit FC,Elman FC,0,2,-2,2,1,1,-1,4,5,0,1,1,0,1
+2015,Mogadishu City Club,Heegan SC,0,0,0,0,3,3,0,11,11,6,3,3,6,8
+2015,Batroolka FC,Dekedda SC,0,4,-4,4,0,3,-1,1,10,1,5,5,1,0
+2015,Sahafi FC,Gaadiidka FC,0,1,-1,1,1,3,-1,5,9,0,2,2,0,2
+2015,Elman FC,Horseed SC,3,0,3,-3,1,4,1,3,13,6,6,6,6,5
+2015,Heegan SC,Jeenyo FC,2,0,2,-2,2,0,1,7,2,7,2,2,7,7
+2015,Dekedda SC,SomaliFruit FC,0,1,-1,1,1,1,-1,5,4,0,2,2,0,0
+2015,Gaadiidka FC,Mogadishu City Club,2,1,1,-1,0,1,1,1,6,1,12,12,1,2
+2015,Sahafi FC,Batroolka FC,7,0,7,-7,1,1,1,5,3,2,0,0,2,0
+2015,Horseed SC,Heegan SC,1,0,1,-1,3,3,1,11,11,3,6,6,3,8
+2015,Dekedda SC,Elman FC,2,0,2,-2,1,1,1,5,5,7,7,7,7,3
+2015,Gaadiidka FC,Jeenyo FC,4,2,2,-2,0,0,1,1,2,6,4,4,6,4
+2015,SomaliFruit FC,Sahafi FC,1,4,-3,3,1,0,-1,4,1,0,4,4,0,0
+2015,Dekedda SC,Horseed SC,4,0,4,-4,1,4,1,5,13,4,6,6,4,7
+2015,Gaadiidka FC,Heegan SC,0,1,-1,1,0,3,-1,1,11,1,12,12,1,2
+2015,Sahafi FC,Elman FC,1,3,-2,2,1,1,-1,5,5,2,4,4,2,0
+2015,Mogadishu City Club,SomaliFruit FC,2,0,2,-2,3,1,1,11,4,2,0,0,2,0
+2015,Batroolka FC,Jeenyo FC,1,8,-7,7,0,0,-1,1,2,0,4,4,0,2
+2015,Horseed SC,Gaadiidka FC,1,3,-2,2,3,3,-1,11,9,8,4,4,8,4
+2015,Sahafi FC,Dekedda SC,1,3,-2,2,1,3,-1,5,10,0,4,4,0,2
+2015,Heegan SC,Batroolka FC,4,1,3,-3,2,1,1,7,3,6,0,0,6,0
+2015,Elman FC,Mogadishu City Club,0,0,0,0,1,1,0,3,6,2,7,7,2,9
+2015,SomaliFruit FC,Jeenyo FC,1,1,0,0,1,0,0,4,2,0,1,1,0,1
+2015,Sahafi FC,Horseed SC,0,0,0,0,1,4,0,5,13,0,3,3,0,3
+2015,Batroolka FC,Gaadiidka FC,0,0,0,0,0,3,0,1,9,1,3,3,1,2
+2015,Batroolka FC,Mogadishu City Club,1,5,-4,4,0,1,-1,1,6,0,5,5,0,1
+2015,Mogadishu City Club,Dekedda SC,0,1,-1,1,3,3,-1,11,10,5,6,6,5,6
+2015,Heegan SC,SomaliFruit FC,3,0,3,-3,2,1,1,7,4,2,0,0,2,0
+2015,Jeenyo FC,Elman FC,0,0,0,0,3,1,0,9,5,5,4,4,5,7
+2015,Horseed SC,Batroolka FC,3,1,2,-2,3,1,1,11,3,5,0,0,5,1
+2015,Mogadishu City Club,Sahafi FC,3,0,3,-3,3,0,1,11,1,4,0,0,4,2
+2015,SomaliFruit FC,Gaadiidka FC,1,0,1,-1,1,3,1,4,9,1,0,0,1,0
+2015,Jeenyo FC,Dekedda SC,3,0,3,-3,3,3,1,9,10,4,8,8,4,4
+2015,Heegan SC,Elman FC,1,1,0,0,2,1,0,7,5,6,6,6,6,6
+2015,Mogadishu City Club,Horseed SC,5,0,5,-5,3,4,1,11,13,8,3,3,8,7
+2015,SomaliFruit FC,Batroolka FC,1,2,-1,1,1,1,-1,4,3,1,1,1,1,0
+2015,Jeenyo FC,Sahafi FC,2,1,1,-1,3,0,1,9,1,3,0,0,3,3
+2015,Elman FC,Gaadiidka FC,0,2,-2,2,1,3,-1,3,9,9,4,4,9,2
+2015,Heegan SC,Dekedda SC,2,0,2,-2,2,3,1,7,10,6,6,6,6,6
+2015,Horseed SC,SomaliFruit FC,2,0,2,-2,3,1,1,11,4,1,1,1,1,0
+2015,Jeenyo FC,Mogadishu City Club,1,2,-1,1,3,1,-1,9,6,4,8,8,4,4
+2015,Elman FC,Batroolka FC,4,2,2,-2,1,1,1,3,3,4,1,1,4,1
+2015,Heegan SC,Sahafi FC,0,1,-1,1,2,0,-1,7,1,3,1,1,3,2
+2015,Dekedda SC,Gaadiidka FC,2,0,2,-2,1,3,1,5,9,8,1,1,8,7
+2015,Jeenyo FC,Horseed SC,2,1,1,-1,3,4,1,9,13,7,6,6,7,3
+2015,Elman FC,SomaliFruit FC,2,2,0,0,1,1,0,3,4,1,0,0,1,1
+2015,Heegan SC,Mogadishu City Club,0,2,-2,2,2,1,-1,7,6,3,6,6,3,8
+2015,Dekedda SC,Batroolka FC,5,1,4,-4,1,1,1,5,3,5,1,1,5,0
+2015,Gaadiidka FC,Sahafi FC,2,1,1,-1,0,0,1,1,1,2,0,0,2,2
+2015,Dekedda SC,Heegan SC,1,0,1,-1,1,3,1,5,11,6,6,6,6,6
+2015,Mogadishu City Club,Waxool FC,1,0,1,-1,3,2,1,11,6,5,1,1,5,0
+2015,Jeenyo FC,Horseed SC,1,1,0,0,3,4,0,9,13,7,6,6,7,3
+2015,Gaadiidka FC,Sahafi FC,1,1,0,0,0,0,0,1,1,2,0,0,2,2
+2016,Elman FC,Badbaado FC,1,1,0,0,1,0,0,3,2,3,0,0,3,1
+2016,Waxool FC,Dekedda SC,0,0,0,0,0,3,0,0,10,0,5,5,0,1
+2016,Heegan SC,Horseed SC,2,2,0,0,2,4,0,7,13,6,3,3,6,8
+2016,Mogadishu City Club,Sahafi FC,1,0,1,-1,3,0,1,11,1,4,0,0,4,2
+2016,Jeenyo FC,Badbaado FC,4,1,3,-3,3,0,1,9,2,4,0,0,4,0
+2016,Gaadiidka FC,Elman FC,0,1,-1,1,0,1,-1,1,5,4,9,9,4,2
+2016,Dekedda SC,Horseed SC,2,0,2,-2,1,4,1,5,13,4,6,6,4,7
+2016,Waxool FC,Sahafi FC,2,1,1,-1,0,0,1,0,1,1,0,0,1,1
+2016,Heegan SC,Badbaado FC,1,0,1,-1,2,0,1,7,2,4,0,0,4,0
+2016,Mogadishu City Club,Elman FC,2,1,1,-1,3,1,1,11,5,7,2,2,7,9
+2016,Jeenyo FC,Gaadiidka FC,1,1,0,0,3,3,0,9,9,4,6,6,4,4
+2016,Sahafi FC,Dekedda SC,1,4,-3,3,1,3,-1,5,10,0,4,4,0,2
+2016,Horseed SC,Badbaado FC,2,0,2,-2,3,0,1,11,2,4,0,0,4,0
+2016,Waxool FC,Elman FC,0,4,-4,4,0,1,-1,0,5,0,6,6,0,0
+2016,Heegan SC,Gaadiidka FC,0,1,-1,1,2,3,-1,7,9,12,1,1,12,2
+2016,Mogadishu City Club,Jeenyo FC,2,0,2,-2,3,0,1,11,2,8,4,4,8,4
+2016,Dekedda SC,Badbaado FC,2,2,0,0,1,0,0,5,2,3,0,0,3,1
+2016,Sahafi FC,Elman FC,2,0,2,-2,1,1,1,5,5,2,4,4,2,0
+2016,Horseed SC,Gaadiidka FC,0,2,-2,2,3,3,-1,11,9,8,4,4,8,4
+2016,Waxool FC,Jeenyo FC,1,2,-1,1,0,0,-1,0,2,1,4,4,1,1
+2016,Heegan SC,Mogadishu City Club,0,0,0,0,2,1,0,7,6,3,6,6,3,8
+2016,Elman FC,Dekedda SC,0,1,-1,1,1,3,-1,3,10,7,7,7,7,3
+2016,Badbaado FC,Gaadiidka FC,0,2,-2,2,0,3,-1,0,9,0,2,2,0,0
+2016,Sahafi FC,Jeenyo FC,1,3,-2,2,1,0,-1,5,2,0,3,3,0,3
+2016,Horseed SC,Mogadishu City Club,0,0,0,0,3,1,0,11,6,3,8,8,3,7
+2016,Waxool FC,Heegan SC,0,2,-2,2,0,3,-1,0,11,0,6,6,0,0
+2016,Dekedda SC,Gaadiidka FC,1,1,0,0,1,3,0,5,9,8,1,1,8,7
+2016,Elman FC,Jeenyo FC,1,1,0,0,1,0,0,3,2,4,5,5,4,7
+2016,Badbaado FC,Mogadishu City Club,0,6,-6,6,0,1,-1,0,6,0,3,3,0,1
+2016,Sahafi FC,Heegan SC,0,2,-2,2,1,3,-1,5,11,1,3,3,1,2
+2016,Horseed SC,Waxool FC,3,1,2,-2,3,2,1,11,6,4,1,1,4,1
+2016,Jeenyo FC,Dekedda SC,3,1,2,-2,3,3,1,9,10,4,8,8,4,4
+2016,Gaadiidka FC,Mogadishu City Club,0,2,-2,2,0,1,-1,1,6,1,12,12,1,2
+2016,Elman FC,Heegan SC,1,1,0,0,1,3,0,3,11,6,6,6,6,6
+2016,Badbaado FC,Waxool FC,1,4,-3,3,0,2,-1,0,6,0,1,1,0,1
+2016,Sahafi FC,Horseed SC,2,3,-1,1,1,4,-1,5,13,0,3,3,0,3
+2016,Dekedda SC,Mogadishu City Club,1,1,0,0,1,1,0,5,6,6,5,5,6,6
+2016,Jeenyo FC,Heegan SC,2,2,0,0,3,3,0,9,11,2,7,7,2,7
+2016,Gaadiidka FC,Waxool FC,2,1,1,-1,0,2,1,1,6,3,1,1,3,2
+2016,Elman FC,Horseed SC,0,3,-3,3,1,4,-1,3,13,6,6,6,6,5
+2016,Badbaado FC,Sahafi FC,2,3,-1,1,0,0,-1,0,1,0,6,6,0,0
+2016,Heegan SC,Dekedda SC,3,0,3,-3,2,3,1,7,10,6,6,6,6,6
+2016,Waxool FC,Mogadishu City Club,1,2,-1,1,0,1,-1,0,6,1,5,5,1,0
+2016,Horseed SC,Jeenyo FC,1,3,-2,2,3,0,-1,11,2,6,7,7,6,3
+2016,Sahafi FC,Gaadiidka FC,1,1,0,0,1,3,0,5,9,0,2,2,0,2
+2016,Badbaado FC,Elman FC,1,2,-1,1,0,1,-1,0,5,0,3,3,0,1
+2016,Dekedda SC,Waxool FC,2,1,1,-1,1,2,1,5,6,5,0,0,5,1
+2016,Horseed SC,Heegan SC,1,2,-1,1,3,3,-1,11,11,3,6,6,3,8
+2016,Sahafi FC,Mogadishu City Club,0,6,-6,6,1,1,-1,5,6,0,4,4,0,2
+2016,Badbaado FC,Jeenyo FC,0,7,-7,7,0,0,-1,0,2,0,4,4,0,0
+2016,Elman FC,Gaadiidka FC,0,1,-1,1,1,3,-1,3,9,9,4,4,9,2
+2016,Horseed SC,Dekedda SC,2,2,0,0,3,3,0,11,10,6,4,4,6,7
+2016,Sahafi FC,Waxool FC,1,1,0,0,1,2,0,5,6,0,1,1,0,1
+2016,Badbaado FC,Heegan SC,1,8,-7,7,0,3,-1,0,11,0,4,4,0,0
+2016,Elman FC,Mogadishu City Club,1,1,0,0,1,1,0,3,6,2,7,7,2,9
+2016,Gaadiidka FC,Jeenyo FC,1,2,-1,1,0,0,-1,1,2,6,4,4,6,4
+2016,Dekedda SC,Sahafi FC,4,1,3,-3,1,0,1,5,1,4,0,0,4,2
+2016,Badbaado FC,Horseed SC,2,3,-1,1,0,4,-1,0,13,0,4,4,0,0
+2016,Elman FC,Waxool FC,3,0,3,-3,1,2,1,3,6,6,0,0,6,0
+2016,Gaadiidka FC,Heegan SC,0,0,0,0,0,3,0,1,11,1,12,12,1,2
+2016,Jeenyo FC,Mogadishu City Club,2,3,-1,1,3,1,-1,9,6,4,8,8,4,4
+2016,Badbaado FC,Dekedda SC,0,2,-2,2,0,3,-1,0,10,0,3,3,0,1
+2016,Elman FC,Sahafi FC,2,1,1,-1,1,0,1,3,1,4,2,2,4,0
+2016,Gaadiidka FC,Horseed SC,0,0,0,0,0,4,0,1,13,4,8,8,4,4
+2016,Jeenyo FC,Waxool FC,4,1,3,-3,3,2,1,9,6,4,1,1,4,1
+2016,Mogadishu City Club,Heegan SC,1,1,0,0,3,3,0,11,11,6,3,3,6,8
+2016,Dekedda SC,Elman FC,3,0,3,-3,1,1,1,5,5,7,7,7,7,3
+2016,Gaadiidka FC,Badbaado FC,2,0,2,-2,0,0,1,1,2,2,0,0,2,0
+2016,Jeenyo FC,Sahafi FC,1,0,1,-1,3,0,1,9,1,3,0,0,3,3
+2016,Mogadishu City Club,Horseed SC,2,0,2,-2,3,4,1,11,13,8,3,3,8,7
+2016,Heegan SC,Waxool FC,4,1,3,-3,2,2,1,7,6,6,0,0,6,0
+2016,Gaadiidka FC,Dekedda SC,0,1,-1,1,0,3,-1,1,10,1,8,8,1,7
+2016,Jeenyo FC,Elman FC,0,0,0,0,3,1,0,9,5,5,4,4,5,7
+2016,Mogadishu City Club,Badbaado FC,4,0,4,-4,3,0,1,11,2,3,0,0,3,1
+2016,Heegan SC,Sahafi FC,2,2,0,0,2,0,0,7,1,3,1,1,3,2
+2016,Waxool FC,Horseed SC,2,1,1,-1,0,4,1,0,13,1,4,4,1,1
+2016,Dekedda SC,Jeenyo FC,1,0,1,-1,1,0,1,5,2,8,4,4,8,4
+2016,Mogadishu City Club,Gaadiidka FC,2,1,1,-1,3,3,1,11,9,12,1,1,12,2
+2016,Heegan SC,Elman FC,0,0,0,0,2,1,0,7,5,6,6,6,6,6
+2016,Waxool FC,Badbaado FC,1,1,0,0,0,0,0,0,2,1,0,0,1,1
+2016,Horseed SC,Sahafi FC,2,1,1,-1,3,0,1,11,1,3,0,0,3,3
+2016,Mogadishu City Club,Dekedda SC,0,0,0,0,3,3,0,11,10,5,6,6,5,6
+2016,Heegan SC,Jeenyo FC,1,1,0,0,2,0,0,7,2,7,2,2,7,7
+2016,Waxool FC,Gaadiidka FC,3,2,1,-1,0,3,1,0,9,1,3,3,1,2
+2016,Horseed SC,Elman FC,2,0,2,-2,3,1,1,11,5,6,6,6,6,5
+2016,Sahafi FC,Badbaado FC,12,1,11,-11,1,0,1,5,2,6,0,0,6,0
+2016,Heegan SC,Elman FC,0,2,-2,2,2,1,-1,7,5,6,6,6,6,6
+2016,Gaadiidka FC,Jeenyo FC,2,2,0,0,0,0,0,1,2,6,4,4,6,4
+2016,Jazeera SC,Mogadishu City Club,1,3,-2,2,1,1,-1,3,6,1,4,4,1,0
+2016,Bariga Dhexe,Dekedda SC,1,3,-2,2,0,3,-1,0,10,0,2,2,0,0
+2016,Horseed SC,Waxool FC,2,1,1,-1,3,2,1,11,6,4,1,1,4,1
+2016,Jeenyo FC,Heegan SC,1,1,0,0,3,3,0,9,11,2,7,7,2,7
+2016,Elman FC,Mogadishu City Club,1,2,-1,1,1,1,-1,3,6,2,7,7,2,9
+2016,Gaadiidka FC,Dekedda SC,1,1,0,0,0,3,0,1,10,1,8,8,1,7
+2016,Jazeera SC,Waxool FC,1,4,-3,3,1,2,-1,3,6,1,2,2,1,1
+2016,Bariga Dhexe,Horseed SC,1,1,0,0,0,4,0,0,13,0,0,0,0,2
+2017,Heegan SC,Mogadishu City Club,0,0,0,0,2,1,0,7,6,3,6,6,3,8
+2017,Jeenyo FC,Dekedda SC,2,2,0,0,3,3,0,9,10,4,8,8,4,4
+2017,Elman FC,Waxool FC,5,2,3,-3,1,2,1,3,6,6,0,0,6,0
+2017,Gaadiidka FC,Horseed SC,1,1,0,0,0,4,0,1,13,4,8,8,4,4
+2017,Jazeera SC,Bariga Dhexe,0,2,-2,2,1,1,-1,3,4,1,3,3,1,0
+2017,Dekedda SC,Heegan SC,1,1,0,0,1,3,0,5,11,6,6,6,6,6
+2017,Mogadishu City Club,Waxool FC,3,0,3,-3,3,2,1,11,6,5,1,1,5,0
+2017,Jeenyo FC,Horseed SC,1,0,1,-1,3,4,1,9,13,7,6,6,7,3
+2017,Gaadiidka FC,Jazeera SC,7,0,7,-7,0,0,1,1,1,2,1,1,2,2
+2017,Elman FC,Bariga Dhexe,4,0,4,-4,1,1,1,3,4,2,0,0,2,0
+2017,Heegan SC,Waxool FC,2,0,2,-2,2,2,1,7,6,6,0,0,6,0
+2017,Dekedda SC,Horseed SC,1,2,-1,1,1,4,-1,5,13,4,6,6,4,7
+2017,Mogadishu City Club,Bariga Dhexe,5,1,4,-4,3,1,1,11,4,2,0,0,2,0
+2017,Jeenyo FC,Jazeera SC,2,2,0,0,3,0,0,9,1,1,2,2,1,1
+2017,Horseed SC,Heegan SC,2,1,1,-1,3,3,1,11,11,3,6,6,3,8
+2017,Elman FC,Gaadiidka FC,3,1,2,-2,1,3,1,3,9,9,4,4,9,2
+2017,Dekedda SC,Jazeera SC,6,0,6,-6,1,0,1,5,1,5,0,0,5,0
+2017,Waxool FC,Bariga Dhexe,0,1,-1,1,0,1,-1,0,4,2,1,1,2,1
+2017,Mogadishu City Club,Gaadiidka FC,2,1,1,-1,3,3,1,11,9,12,1,1,12,2
+2017,Jeenyo FC,Elman FC,1,1,0,0,3,1,0,9,5,5,4,4,5,7
+2017,Horseed SC,Jazeera SC,2,0,2,-2,3,0,1,11,1,4,0,0,4,2
+2017,Heegan SC,Bariga Dhexe,1,2,-1,1,2,1,-1,7,4,1,1,1,1,0
+2017,Dekedda SC,Elman FC,0,0,0,0,1,1,0,5,5,7,7,7,7,3
+2017,Waxool FC,Gaadiidka FC,0,4,-4,4,0,3,-1,0,9,1,3,3,1,2
+2017,Mogadishu City Club,Jeenyo FC,2,2,0,0,3,0,0,11,2,8,4,4,8,4
+2017,Jazeera SC,Heegan SC,1,2,-1,1,1,3,-1,3,11,0,5,5,0,1
+2017,Bariga Dhexe,Gaadiidka FC,0,6,-6,6,0,3,-1,0,9,0,2,2,0,0
+2017,Horseed SC,Elman FC,1,1,0,0,3,1,0,11,5,6,6,6,6,5
+2017,Waxool FC,Jeenyo FC,0,5,-5,5,0,0,-1,0,2,1,4,4,1,1
+2017,Dekedda SC,Mogadishu City Club,1,0,1,-1,1,1,1,5,6,6,5,5,6,6
+2017,Jazeera SC,Elman FC,0,7,-7,7,1,1,-1,3,5,0,5,5,0,1
+2017,Heegan SC,Gaadiidka FC,1,0,1,-1,2,3,1,7,9,12,1,1,12,2
+2017,Bariga Dhexe,Jeenyo FC,1,5,-4,4,0,0,-1,0,2,0,2,2,0,0
+2017,Horseed SC,Mogadishu City Club,0,3,-3,3,3,1,-1,11,6,3,8,8,3,7
+2017,Waxool FC,Dekedda SC,1,7,-6,6,0,3,-1,0,10,0,5,5,0,1
+2017,Elman FC,Heegan SC,0,0,0,0,1,3,0,3,11,6,6,6,6,6
+2017,Jeenyo FC,Gaadiidka FC,1,1,0,0,3,3,0,9,9,4,6,6,4,4
+2017,Mogadishu City Club,Jazeera SC,3,1,2,-2,3,0,1,11,1,4,1,1,4,0
+2017,Dekedda SC,Bariga Dhexe,3,0,3,-3,1,1,1,5,4,2,0,0,2,0
+2017,Waxool FC,Horseed SC,0,0,0,0,0,4,0,0,13,1,4,4,1,1
+2017,Dekedda SC,Gaadiidka FC,2,1,1,-1,1,3,1,5,9,8,1,1,8,7
+2017,Heegan SC,Jeenyo FC,4,3,1,-1,2,0,1,7,2,7,2,2,7,7
+2017,Mogadishu City Club,Elman FC,0,1,-1,1,3,1,-1,11,5,7,2,2,7,9
+2017,Horseed SC,Bariga Dhexe,0,0,0,0,3,1,0,11,4,0,0,0,0,2
+2017,Waxool FC,Jazeera SC,1,2,-1,1,0,0,-1,0,1,2,1,1,2,1
+2017,Mogadishu City Club,Heegan SC,0,1,-1,1,3,3,-1,11,11,6,3,3,6,8
+2017,Dekedda SC,Jeenyo FC,4,0,4,-4,1,0,1,5,2,8,4,4,8,4
+2017,Waxool FC,Elman FC,0,2,-2,2,0,1,-1,0,5,0,6,6,0,0
+2017,Horseed SC,Gaadiidka FC,2,1,1,-1,3,3,1,11,9,8,4,4,8,4
+2017,Bariga Dhexe,Jazeera SC,0,1,-1,1,0,0,-1,0,1,3,1,1,3,0
+2017,Heegan SC,Dekedda SC,0,2,-2,2,2,3,-1,7,10,6,6,6,6,6
+2017,Waxool FC,Mogadishu City Club,2,1,1,-1,0,1,1,0,6,1,5,5,1,0
+2017,Horseed SC,Jeenyo FC,1,0,1,-1,3,0,1,11,2,6,7,7,6,3
+2017,Bariga Dhexe,Elman FC,0,6,-6,6,0,1,-1,0,5,0,2,2,0,0
+2017,Jazeera SC,Gaadiidka FC,1,6,-5,5,1,3,-1,3,9,1,2,2,1,2
+2017,Waxool FC,Heegan SC,0,2,-2,2,0,3,-1,0,11,0,6,6,0,0
+2017,Horseed SC,Dekedda SC,1,1,0,0,3,3,0,11,10,6,4,4,6,7
+2017,Bariga Dhexe,Mogadishu City Club,1,4,-3,3,0,1,-1,0,6,0,2,2,0,0
+2017,Jazeera SC,Jeenyo FC,1,3,-2,2,1,0,-1,3,2,2,1,1,2,1
+2017,Gaadiidka FC,Elman FC,3,0,3,-3,0,1,1,1,5,4,9,9,4,2
+2017,Heegan SC,Horseed SC,1,1,0,0,2,4,0,7,13,6,3,3,6,8
+2017,Bariga Dhexe,Waxool FC,0,2,-2,2,0,2,-1,0,6,1,2,2,1,1
+2017,Jazeera SC,Dekedda SC,0,1,-1,1,1,3,-1,3,10,0,5,5,0,0
+2017,Gaadiidka FC,Mogadishu City Club,0,0,0,0,0,1,0,1,6,1,12,12,1,2
+2017,Elman FC,Jeenyo FC,0,1,-1,1,1,0,-1,3,2,4,5,5,4,7
+2017,Bariga Dhexe,Heegan SC,0,4,-4,4,0,3,-1,0,11,1,1,1,1,0
+2017,Jazeera SC,Horseed SC,1,3,-2,2,1,4,-1,3,13,0,4,4,0,2
+2017,Gaadiidka FC,Waxool FC,1,1,0,0,0,2,0,1,6,3,1,1,3,2
+2017,Elman FC,Dekedda SC,0,2,-2,2,1,3,-1,3,10,7,7,7,7,3
+2017,Jeenyo FC,Mogadishu City Club,0,3,-3,3,3,1,-1,9,6,4,8,8,4,4
+2017,Heegan SC,Jazeera SC,2,0,2,-2,2,0,1,7,1,5,0,0,5,1
+2017,Gaadiidka FC,Bariga Dhexe,2,0,2,-2,0,1,1,1,4,2,0,0,2,0
+2017,Elman FC,Horseed SC,1,1,0,0,1,4,0,3,13,6,6,6,6,5
+2017,Jeenyo FC,Waxool FC,0,0,0,0,3,2,0,9,6,4,1,1,4,1
+2017,Mogadishu City Club,Dekedda SC,1,1,0,0,3,3,0,11,10,5,6,6,5,6
+2017,Gaadiidka FC,Heegan SC,2,3,-1,1,0,3,-1,1,11,1,12,12,1,2
+2017,Elman FC,Jazeera SC,4,0,4,-4,1,0,1,3,1,5,0,0,5,1
+2017,Jeenyo FC,Bariga Dhexe,1,0,1,-1,3,1,1,9,4,2,0,0,2,0
+2017,Mogadishu City Club,Horseed SC,1,0,1,-1,3,4,1,11,13,8,3,3,8,7
+2017,Dekedda SC,Waxool FC,2,0,2,-2,1,2,1,5,6,5,0,0,5,1
+2018,Dekedda SC,Waxool FC,1,0,1,-1,1,2,1,5,6,5,0,0,5,1
+2018,Batroolka FC,Gaadiidka FC,0,0,0,0,0,3,0,1,9,1,3,3,1,2
+2018,Heegan SC,Elman FC,4,1,3,-3,2,1,1,7,5,6,6,6,6,6
+2018,Madbacadda FC,Jeenyo FC,1,1,0,0,0,0,0,0,2,2,0,0,2,2
+2018,Horseed SC,Mogadishu City Club,1,0,1,-1,3,1,1,11,6,3,8,8,3,7
+2018,Gaadiidka FC,Dekedda SC,1,1,0,0,0,3,0,1,10,1,8,8,1,7
+2018,Waxool FC,Elman FC,0,4,-4,4,0,1,-1,0,5,0,6,6,0,0
+2018,Batroolka FC,Jeenyo FC,0,0,0,0,0,0,0,1,2,0,4,4,0,2
+2018,Heegan SC,Mogadishu City Club,1,1,0,0,2,1,0,7,6,3,6,6,3,8
+2018,Madbacadda FC,Horseed SC,0,0,0,0,0,4,0,0,13,0,2,2,0,2
+2018,Dekedda SC,Elman FC,1,0,1,-1,1,1,1,5,5,7,7,7,7,3
+2018,Gaadiidka FC,Jeenyo FC,0,1,-1,1,0,0,-1,1,2,6,4,4,6,4
+2018,Waxool FC,Mogadishu City Club,1,4,-3,3,0,1,-1,0,6,1,5,5,1,0
+2018,Batroolka FC,Horseed SC,1,5,-4,4,0,4,-1,1,13,0,5,5,0,1
+2018,Heegan SC,Madbacadda FC,0,0,0,0,2,1,0,7,6,2,1,1,2,1
+2018,Jeenyo FC,Dekedda SC,0,2,-2,2,3,3,-1,9,10,4,8,8,4,4
+2018,Elman FC,Mogadishu City Club,2,6,-4,4,1,1,-1,3,6,2,7,7,2,9
+2018,Gaadiidka FC,Horseed SC,1,3,-2,2,0,4,-1,1,13,4,8,8,4,4
+2018,Waxool FC,Madbacadda FC,0,1,-1,1,0,1,-1,0,6,1,1,1,1,0
+2018,Batroolka FC,Heegan SC,1,2,-1,1,0,3,-1,1,11,0,6,6,0,0
+2018,Dekedda SC,Mogadishu City Club,1,0,1,-1,1,1,1,5,6,6,5,5,6,6
+2018,Jeenyo FC,Horseed SC,0,2,-2,2,3,4,-1,9,13,7,6,6,7,3
+2018,Elman FC,Madbacadda FC,5,1,4,-4,1,1,1,3,6,1,1,1,1,2
+2018,Gaadiidka FC,Heegan SC,1,2,-1,1,0,3,-1,1,11,1,12,12,1,2
+2018,Waxool FC,Batroolka FC,2,2,0,0,0,1,0,0,3,1,0,0,1,1
+2018,Horseed SC,Dekedda SC,0,0,0,0,3,3,0,11,10,6,4,4,6,7
+2018,Mogadishu City Club,Madbacadda FC,2,0,2,-2,3,1,1,11,6,2,0,0,2,2
+2018,Jeenyo FC,Heegan SC,1,0,1,-1,3,3,1,9,11,2,7,7,2,7
+2018,Elman FC,Batroolka FC,1,4,-3,3,1,1,-1,3,3,4,1,1,4,1
+2018,Gaadiidka FC,Waxool FC,1,1,0,0,0,2,0,1,6,3,1,1,3,2
+2018,Dekedda SC,Madbacadda FC,7,1,6,-6,1,1,1,5,6,4,0,0,4,0
+2018,Horseed SC,Heegan SC,0,0,0,0,3,3,0,11,11,3,6,6,3,8
+2018,Mogadishu City Club,Batroolka FC,1,1,0,0,3,1,0,11,3,5,0,0,5,1
+2018,Jeenyo FC,Waxool FC,0,1,-1,1,3,2,-1,9,6,4,1,1,4,1
+2018,Elman FC,Gaadiidka FC,3,0,3,-3,1,3,1,3,9,9,4,4,9,2
+2018,Heegan SC,Dekedda SC,0,0,0,0,2,3,0,7,10,6,6,6,6,6
+2018,Madbacadda FC,Batroolka FC,0,0,0,0,0,1,0,0,3,1,0,0,1,1
+2018,Horseed SC,Waxool FC,3,0,3,-3,3,2,1,11,6,4,1,1,4,1
+2018,Mogadishu City Club,Gaadiidka FC,3,0,3,-3,3,3,1,11,9,12,1,1,12,2
+2018,Jeenyo FC,Elman FC,2,2,0,0,3,1,0,9,5,5,4,4,5,7
+2018,Dekedda SC,Batroolka FC,5,0,5,-5,1,1,1,5,3,5,1,1,5,0
+2018,Heegan SC,Waxool FC,5,0,5,-5,2,2,1,7,6,6,0,0,6,0
+2018,Madbacadda FC,Gaadiidka FC,0,2,-2,2,0,3,-1,0,9,0,3,3,0,1
+2018,Horseed SC,Elman FC,2,0,2,-2,3,1,1,11,5,6,6,6,6,5
+2018,Mogadishu City Club,Jeenyo FC,4,2,2,-2,3,0,1,11,2,8,4,4,8,4
+2018,Waxool FC,Dekedda SC,1,4,-3,3,0,3,-1,0,10,0,5,5,0,1
+2018,Gaadiidka FC,Batroolka FC,0,1,-1,1,0,1,-1,1,3,3,1,1,3,2
+2018,Elman FC,Heegan SC,1,2,-1,1,1,3,-1,3,11,6,6,6,6,6
+2018,Jeenyo FC,Madbacadda FC,1,1,0,0,3,1,0,9,6,0,2,2,0,2
+2018,Mogadishu City Club,Horseed SC,3,2,1,-1,3,4,1,11,13,8,3,3,8,7
+2018,Dekedda SC,Gaadiidka FC,6,0,6,-6,1,3,1,5,9,8,1,1,8,7
+2018,Elman FC,Waxool FC,4,1,3,-3,1,2,1,3,6,6,0,0,6,0
+2018,Jeenyo FC,Batroolka FC,6,0,6,-6,3,1,1,9,3,4,0,0,4,2
+2018,Mogadishu City Club,Heegan SC,1,1,0,0,3,3,0,11,11,6,3,3,6,8
+2018,Horseed SC,Madbacadda FC,1,1,0,0,3,1,0,11,6,2,0,0,2,2
+2018,Elman FC,Dekedda SC,3,0,3,-3,1,3,1,3,10,7,7,7,7,3
+2018,Jeenyo FC,Gaadiidka FC,3,6,-3,3,3,3,-1,9,9,4,6,6,4,4
+2018,Mogadishu City Club,Waxool FC,2,0,2,-2,3,2,1,11,6,5,1,1,5,0
+2018,Horseed SC,Batroolka FC,5,0,5,-5,3,1,1,11,3,5,0,0,5,1
+2018,Madbacadda FC,Heegan SC,1,0,1,-1,0,3,1,0,11,1,2,2,1,1
+2018,Dekedda SC,Jeenyo FC,3,0,3,-3,1,0,1,5,2,8,4,4,8,4
+2018,Mogadishu City Club,Elman FC,4,2,2,-2,3,1,1,11,5,7,2,2,7,9
+2018,Horseed SC,Gaadiidka FC,0,0,0,0,3,3,0,11,9,8,4,4,8,4
+2018,Madbacadda FC,Waxool FC,1,2,-1,1,0,2,-1,0,6,1,1,1,1,0
+2018,Heegan SC,Batroolka FC,3,0,3,-3,2,1,1,7,3,6,0,0,6,0
+2018,Mogadishu City Club,Dekedda SC,0,0,0,0,3,3,0,11,10,5,6,6,5,6
+2018,Horseed SC,Jeenyo FC,0,0,0,0,3,0,0,11,2,6,7,7,6,3
+2018,Madbacadda FC,Elman FC,1,1,0,0,0,1,0,0,5,1,1,1,1,2
+2018,Heegan SC,Gaadiidka FC,3,1,2,-2,2,3,1,7,9,12,1,1,12,2
+2018,Batroolka FC,Waxool FC,1,2,-1,1,0,2,-1,1,6,0,1,1,0,1
+2018,Dekedda SC,Horseed SC,2,2,0,0,1,4,0,5,13,4,6,6,4,7
+2018,Madbacadda FC,Mogadishu City Club,2,2,0,0,0,1,0,0,6,0,2,2,0,2
+2018,Heegan SC,Jeenyo FC,4,1,3,-3,2,0,1,7,2,7,2,2,7,7
+2018,Batroolka FC,Mogadishu City Club,1,2,-1,1,0,1,-1,1,6,0,5,5,0,1
+2018,Waxool FC,Jeenyo FC,1,2,-1,1,0,0,-1,0,2,1,4,4,1,1
+2018,Gaadiidka FC,Mogadishu City Club,1,2,-1,1,0,1,-1,1,6,1,12,12,1,2
+2018,Batroolka FC,Elman FC,2,2,0,0,0,1,0,1,5,1,4,4,1,1
+2018,Jeenyo FC,Mogadishu City Club,1,2,-1,1,3,1,-1,9,6,4,8,8,4,4
+2018,Heegan SC,Horseed SC,1,0,1,-1,2,4,1,7,13,6,3,3,6,8
+2018,Gaadiidka FC,Elman FC,2,2,0,0,0,1,0,1,5,4,9,9,4,2
+2018,Batroolka FC,Madbacadda FC,1,4,-3,3,0,1,-1,1,6,0,1,1,0,1
+2018,Dekedda SC,Heegan SC,1,1,0,0,1,3,0,5,11,6,6,6,6,6
+2018,Waxool FC,Gaadiidka FC,1,3,-2,2,0,3,-1,0,9,1,3,3,1,2
+2018,Elman FC,Jeenyo FC,2,1,1,-1,1,0,1,3,2,4,5,5,4,7
+2018,Madbacadda FC,Dekedda SC,0,5,-5,5,0,3,-1,0,10,0,4,4,0,0
+2018,Waxool FC,Horseed SC,1,4,-3,3,0,4,-1,0,13,1,4,4,1,1
+2018,Gaadiidka FC,Madbacadda FC,4,1,3,-3,0,1,1,1,6,3,0,0,3,1
+2018,Batroolka FC,Dekedda SC,1,6,-5,5,0,3,-1,1,10,1,5,5,1,0
+2018,Elman FC,Horseed SC,2,3,-1,1,1,4,-1,3,13,6,6,6,6,5
+2018,Waxool FC,Heegan SC,0,7,-7,7,0,3,-1,0,11,0,6,6,0,0
+2019,Dekedda SC,Gaadiidka FC,1,1,0,0,1,3,0,5,9,8,1,1,8,7
+2019,Jeenyo FC,Mogadishu City Club,1,0,1,-1,3,1,1,9,6,4,8,8,4,4
+2019,Heegan SC,Madbacadda FC,1,0,1,-1,2,1,1,7,6,2,1,1,2,1
+2019,Jazeera SC,Midnimo FC,0,1,-1,1,1,3,-1,3,9,1,4,4,1,3
+2019,Horseed SC,Elman FC,0,0,0,0,3,1,0,11,5,6,6,6,6,5
+2019,Jeenyo FC,Dekedda SC,2,8,-6,6,3,3,-1,9,10,4,8,8,4,4
+2019,Gaadiidka FC,Madbacadda FC,0,0,0,0,0,1,0,1,6,3,0,0,3,1
+2019,Mogadishu City Club,Midnimo FC,1,1,0,0,3,3,0,11,9,4,0,0,4,1
+2019,Heegan SC,Elman FC,1,3,-2,2,2,1,-1,7,5,6,6,6,6,6
+2019,Jazeera SC,Horseed SC,1,1,0,0,1,4,0,3,13,0,4,4,0,2
+2019,Dekedda SC,Madbacadda FC,1,0,1,-1,1,1,1,5,6,4,0,0,4,0
+2019,Jeenyo FC,Midnimo FC,0,1,-1,1,3,3,-1,9,9,1,2,2,1,1
+2019,Gaadiidka FC,Elman FC,1,3,-2,2,0,1,-1,1,5,4,9,9,4,2
+2019,Mogadishu City Club,Horseed SC,1,2,-1,1,3,4,-1,11,13,8,3,3,8,7
+2019,Heegan SC,Jazeera SC,3,0,3,-3,2,0,1,7,1,5,0,0,5,1
+2019,Midnimo FC,Dekedda SC,0,2,-2,2,2,3,-1,7,10,1,2,2,1,3
+2019,Madbacadda FC,Elman FC,1,0,1,-1,0,1,1,0,5,1,1,1,1,2
+2019,Jeenyo FC,Horseed SC,0,4,-4,4,3,4,-1,9,13,7,6,6,7,3
+2019,Gaadiidka FC,Jazeera SC,0,1,-1,1,0,0,-1,1,1,2,1,1,2,2
+2019,Mogadishu City Club,Heegan SC,1,0,1,-1,3,3,1,11,11,6,3,3,6,8
+2019,Dekedda SC,Elman FC,1,0,1,-1,1,1,1,5,5,7,7,7,7,3
+2019,Midnimo FC,Horseed SC,0,2,-2,2,2,4,-1,7,13,0,5,5,0,0
+2019,Madbacadda FC,Jazeera SC,1,2,-1,1,0,0,-1,0,1,0,1,1,0,1
+2019,Jeenyo FC,Heegan SC,0,2,-2,2,3,3,-1,9,11,2,7,7,2,7
+2019,Gaadiidka FC,Mogadishu City Club,1,2,-1,1,0,1,-1,1,6,1,12,12,1,2
+2019,Horseed SC,Dekedda SC,1,0,1,-1,3,3,1,11,10,6,4,4,6,7
+2019,Elman FC,Jazeera SC,3,2,1,-1,1,0,1,3,1,5,0,0,5,1
+2019,Midnimo FC,Heegan SC,1,3,-2,2,2,3,-1,7,11,1,5,5,1,0
+2019,Madbacadda FC,Mogadishu City Club,1,4,-3,3,0,1,-1,0,6,0,2,2,0,2
+2019,Jeenyo FC,Gaadiidka FC,2,4,-2,2,3,3,-1,9,9,4,6,6,4,4
+2019,Dekedda SC,Jazeera SC,2,1,1,-1,1,0,1,5,1,5,0,0,5,0
+2019,Horseed SC,Heegan SC,0,1,-1,1,3,3,-1,11,11,3,6,6,3,8
+2019,Elman FC,Mogadishu City Club,1,1,0,0,1,1,0,3,6,2,7,7,2,9
+2019,Midnimo FC,Gaadiidka FC,0,2,-2,2,2,3,-1,7,9,2,2,2,2,1
+2019,Madbacadda FC,Jeenyo FC,2,1,1,-1,0,0,1,0,2,2,0,0,2,2
+2019,Heegan SC,Dekedda SC,1,1,0,0,2,3,0,7,10,6,6,6,6,6
+2019,Jazeera SC,Mogadishu City Club,2,5,-3,3,1,1,-1,3,6,1,4,4,1,0
+2019,Horseed SC,Gaadiidka FC,6,0,6,-6,3,3,1,11,9,8,4,4,8,4
+2019,Elman FC,Jeenyo FC,3,1,2,-2,1,0,1,3,2,4,5,5,4,7
+2019,Midnimo FC,Madbacadda FC,1,0,1,-1,2,1,1,7,6,2,0,0,2,0
+2019,Dekedda SC,Mogadishu City Club,1,0,1,-1,1,1,1,5,6,6,5,5,6,6
+2019,Heegan SC,Gaadiidka FC,4,0,4,-4,2,3,1,7,9,12,1,1,12,2
+2019,Jeenyo FC,Jazeera SC,0,1,-1,1,3,0,-1,9,1,1,2,2,1,1
+2019,Horseed SC,Madbacadda FC,4,0,4,-4,3,1,1,11,6,2,0,0,2,2
+2019,Elman FC,Midnimo FC,1,2,-1,1,1,3,-1,3,9,0,3,3,0,2
+2019,Gaadiidka FC,Dekedda SC,0,4,-4,4,0,3,-1,1,10,1,8,8,1,7
+2019,Jeenyo FC,Mogadishu City Club,0,4,-4,4,3,1,-1,9,6,4,8,8,4,4
+2019,Madbacadda FC,Heegan SC,3,4,-1,1,0,3,-1,0,11,1,2,2,1,1
+2019,Midnimo FC,Jazeera SC,2,2,0,0,2,0,0,7,1,4,1,1,4,3
+2019,Elman FC,Horseed SC,2,1,1,-1,1,4,1,3,13,6,6,6,6,5
+2019,Dekedda SC,Jeenyo FC,4,1,3,-3,1,0,1,5,2,8,4,4,8,4
+2019,Madbacadda FC,Gaadiidka FC,0,2,-2,2,0,3,-1,0,9,0,3,3,0,1
+2019,Elman FC,Heegan SC,2,1,1,-1,1,3,1,3,11,6,6,6,6,6
+2019,Horseed SC,Jazeera SC,3,1,2,-2,3,0,1,11,1,4,0,0,4,2
+2019,Madbacadda FC,Dekedda SC,0,2,-2,2,0,3,-1,0,10,0,4,4,0,0
+2019,Midnimo FC,Jeenyo FC,0,0,0,0,2,0,0,7,2,2,1,1,2,1
+2019,Elman FC,Gaadiidka FC,3,1,2,-2,1,3,1,3,9,9,4,4,9,2
+2019,Horseed SC,Mogadishu City Club,1,0,1,-1,3,1,1,11,6,3,8,8,3,7
+2019,Jazeera SC,Heegan SC,0,0,0,0,1,3,0,3,11,0,5,5,0,1
+2019,Elman FC,Madbacadda FC,1,1,0,0,1,1,0,3,6,1,1,1,1,2
+2019,Dekedda SC,Midnimo FC,1,0,1,-1,1,3,1,5,9,2,1,1,2,3
+2019,Horseed SC,Jeenyo FC,3,0,3,-3,3,0,1,11,2,6,7,7,6,3
+2019,Jazeera SC,Gaadiidka FC,2,2,0,0,1,3,0,3,9,1,2,2,1,2
+2019,Heegan SC,Mogadishu City Club,0,0,0,0,2,1,0,7,6,3,6,6,3,8
+2019,Elman FC,Dekedda SC,2,0,2,-2,1,3,1,3,10,7,7,7,7,3
+2019,Horseed SC,Midnimo FC,3,0,3,-3,3,3,1,11,9,5,0,0,5,0
+2019,Jazeera SC,Madbacadda FC,0,0,0,0,1,1,0,3,6,1,0,0,1,1
+2019,Heegan SC,Jeenyo FC,1,1,0,0,2,0,0,7,2,7,2,2,7,7
+2019,Mogadishu City Club,Gaadiidka FC,1,0,1,-1,3,3,1,11,9,12,1,1,12,2
+2019,Dekedda SC,Horseed SC,1,1,0,0,1,4,0,5,13,4,6,6,4,7
+2019,Jazeera SC,Elman FC,2,2,0,0,1,1,0,3,5,0,5,5,0,1
+2019,Heegan SC,Midnimo FC,2,0,2,-2,2,3,1,7,9,5,1,1,5,0
+2019,Mogadishu City Club,Madbacadda FC,0,0,0,0,3,1,0,11,6,2,0,0,2,2
+2019,Gaadiidka FC,Jeenyo FC,2,1,1,-1,0,0,1,1,2,6,4,4,6,4
+2019,Jazeera SC,Dekedda SC,1,4,-3,3,1,3,-1,3,10,0,5,5,0,0
+2019,Heegan SC,Horseed SC,1,1,0,0,2,4,0,7,13,6,3,3,6,8
+2019,Mogadishu City Club,Elman FC,2,2,0,0,3,1,0,11,5,7,2,2,7,9
+2019,Gaadiidka FC,Midnimo FC,1,0,1,-1,0,3,1,1,9,2,2,2,2,1
+2019,Jeenyo FC,Madbacadda FC,2,4,-2,2,3,1,-1,9,6,0,2,2,0,2
+2019,Dekedda SC,Heegan SC,1,0,1,-1,1,3,1,5,11,6,6,6,6,6
+2019,Mogadishu City Club,Jazeera SC,4,5,-1,1,3,0,-1,11,1,4,1,1,4,0
+2019,Gaadiidka FC,Horseed SC,0,3,-3,3,0,4,-1,1,13,4,8,8,4,4
+2019,Jeenyo FC,Elman FC,2,6,-4,4,3,1,-1,9,5,5,4,4,5,7
+2019,Madbacadda FC,Midnimo FC,0,1,-1,1,0,3,-1,0,9,0,2,2,0,0
+2019,Mogadishu City Club,Dekedda SC,2,3,-1,1,3,3,-1,11,10,5,6,6,5,6
+2019,Gaadiidka FC,Heegan SC,0,1,-1,1,0,3,-1,1,11,1,12,12,1,2
+2019,Jeenyo FC,Jazeera SC,2,4,-2,2,3,0,-1,9,1,1,2,2,1,1
+2019,Madbacadda FC,Horseed SC,0,3,-3,3,0,4,-1,0,13,0,2,2,0,2
+2019,Midnimo FC,Elman FC,0,0,0,0,2,1,0,7,5,3,0,0,3,2
+2019,Dekedda SC,Midnimo FC,1,1,0,0,1,3,0,5,9,2,1,1,2,3
+2019,Raadsan FC,Gaadiidka FC,3,0,3,-3,2,3,1,8,9,2,1,1,2,1
+2019,Mogadishu City Club,Rajo FC,1,2,-1,1,3,1,-1,11,4,1,1,1,1,0
+2019,Elman FC,Heegan SC,1,1,0,0,1,3,0,3,11,6,6,6,6,6
+2019,Horseed SC,Jazeera SC,1,1,0,0,3,0,0,11,1,4,0,0,4,2
+2020,Gaadiidka FC,Dekedda SC,0,1,-1,1,0,3,-1,1,10,1,8,8,1,7
+2020,Midnimo FC,Heegan SC,0,2,-2,2,2,3,-1,7,11,1,5,5,1,0
+2020,Raadsan FC,Rajo FC,2,2,0,0,2,1,0,8,4,1,0,0,1,1
+2020,Elman FC,Jazeera SC,4,1,3,-3,1,0,1,3,1,5,0,0,5,1
+2020,Mogadishu City Club,Horseed SC,0,0,0,0,3,4,0,11,13,8,3,3,8,7
+2020,Dekedda SC,Heegan SC,2,1,1,-1,1,3,1,5,11,6,6,6,6,6
+2020,Gaadiidka FC,Rajo FC,3,1,2,-2,0,1,1,1,4,2,0,0,2,0
+2020,Midnimo FC,Jazeera SC,3,0,3,-3,2,0,1,7,1,4,1,1,4,3
+2020,Raadsan FC,Horseed SC,2,4,-2,2,2,4,-1,8,13,1,2,2,1,1
+2020,Elman FC,Mogadishu City Club,1,1,0,0,1,1,0,3,6,2,7,7,2,9
+2020,Rajo FC,Dekedda SC,0,2,-2,2,0,3,-1,1,10,0,2,2,0,0
+2020,Heegan SC,Jazeera SC,2,0,2,-2,2,0,1,7,1,5,0,0,5,1
+2020,Gaadiidka FC,Horseed SC,0,1,-1,1,0,4,-1,1,13,4,8,8,4,4
+2020,Midnimo FC,Mogadishu City Club,0,4,-4,4,2,1,-1,7,6,0,4,4,0,1
+2020,Raadsan FC,Elman FC,2,3,-1,1,2,1,-1,8,5,1,3,3,1,0
+2020,Dekedda SC,Jazeera SC,2,1,1,-1,1,0,1,5,1,5,0,0,5,0
+2020,Rajo FC,Horseed SC,0,2,-2,2,0,4,-1,1,13,0,1,1,0,0
+2020,Heegan SC,Mogadishu City Club,0,3,-3,3,2,1,-1,7,6,3,6,6,3,8
+2020,Gaadiidka FC,Elman FC,1,3,-2,2,0,1,-1,1,5,4,9,9,4,2
+2020,Midnimo FC,Raadsan FC,0,3,-3,3,2,2,-1,7,8,2,4,4,2,1
+2020,Horseed SC,Dekedda SC,0,0,0,0,3,3,0,11,10,6,4,4,6,7
+2020,Jazeera SC,Mogadishu City Club,1,3,-2,2,1,1,-1,3,6,1,4,4,1,0
+2020,Rajo FC,Elman FC,1,6,-5,5,0,1,-1,1,5,0,1,1,0,0
+2020,Heegan SC,Raadsan FC,2,1,1,-1,2,2,1,7,8,1,1,1,1,1
+2020,Gaadiidka FC,Midnimo FC,0,2,-2,2,0,3,-1,1,9,2,2,2,2,1
+2020,Dekedda SC,Mogadishu City Club,0,5,-5,5,1,1,-1,5,6,6,5,5,6,6
+2020,Horseed SC,Elman FC,2,3,-1,1,3,1,-1,11,5,6,6,6,6,5
+2020,Jazeera SC,Raadsan FC,2,2,0,0,1,2,0,3,8,1,3,3,1,1
+2020,Rajo FC,Midnimo FC,1,1,0,0,0,3,0,1,9,0,0,0,0,1
+2020,Heegan SC,Gaadiidka FC,1,1,0,0,2,3,0,7,9,12,1,1,12,2
+2020,Elman FC,Dekedda SC,0,1,-1,1,1,3,-1,3,10,7,7,7,7,3
+2020,Mogadishu City Club,Raadsan FC,2,3,-1,1,3,2,-1,11,8,1,1,1,1,1
+2020,Horseed SC,Midnimo FC,1,0,1,-1,3,3,1,11,9,5,0,0,5,0
+2020,Jazeera SC,Gaadiidka FC,1,1,0,0,1,3,0,3,9,1,2,2,1,2
+2020,Rajo FC,Heegan SC,1,2,-1,1,0,3,-1,1,11,0,1,1,0,0
+2020,Dekedda SC,Raadsan FC,1,0,1,-1,1,2,1,5,8,2,1,1,2,0
+2020,Elman FC,Midnimo FC,1,1,0,0,1,3,0,3,9,0,3,3,0,2
+2020,Mogadishu City Club,Gaadiidka FC,3,0,3,-3,3,3,1,11,9,12,1,1,12,2
+2020,Horseed SC,Heegan SC,1,0,1,-1,3,3,1,11,11,3,6,6,3,8
+2020,Jazeera SC,Rajo FC,4,2,2,-2,1,1,1,3,4,1,0,0,1,0
+2020,Midnimo FC,Dekedda SC,0,0,0,0,2,3,0,7,10,1,2,2,1,3
+2020,Gaadiidka FC,Raadsan FC,5,0,5,-5,0,2,1,1,8,1,2,2,1,1
+2020,Heegan SC,Elman FC,3,1,2,-2,2,1,1,7,5,6,6,6,6,6
+2020,Rajo FC,Mogadishu City Club,0,5,-5,5,0,1,-1,1,6,1,1,1,1,0
+2020,Jazeera SC,Horseed SC,0,1,-1,1,1,4,-1,3,13,0,4,4,0,2
+2020,Dekedda SC,Gaadiidka FC,1,3,-2,2,1,3,-1,5,9,8,1,1,8,7
+2020,Heegan SC,Midnimo FC,0,1,-1,1,2,3,-1,7,9,5,1,1,5,0
+2020,Rajo FC,Raadsan FC,0,4,-4,4,0,2,-1,1,8,0,1,1,0,1
+2020,Jazeera SC,Elman FC,2,4,-2,2,1,1,-1,3,5,0,5,5,0,1
+2020,Horseed SC,Mogadishu City Club,0,0,0,0,3,1,0,11,6,3,8,8,3,7
+2020,Heegan SC,Dekedda SC,1,0,1,-1,2,3,1,7,10,6,6,6,6,6
+2020,Rajo FC,Gaadiidka FC,0,7,-7,7,0,3,-1,1,9,0,2,2,0,0
+2020,Jazeera SC,Midnimo FC,1,2,-1,1,1,3,-1,3,9,1,4,4,1,3
+2020,Horseed SC,Raadsan FC,4,0,4,-4,3,2,1,11,8,2,1,1,2,1
+2020,Mogadishu City Club,Elman FC,2,0,2,-2,3,1,1,11,5,7,2,2,7,9
+2020,Dekedda SC,Rajo FC,4,1,3,-3,1,1,1,5,4,2,0,0,2,0
+2020,Jazeera SC,Heegan SC,0,3,-3,3,1,3,-1,3,11,0,5,5,0,1
+2020,Horseed SC,Gaadiidka FC,0,1,-1,1,3,3,-1,11,9,8,4,4,8,4
+2020,Mogadishu City Club,Midnimo FC,2,1,1,-1,3,3,1,11,9,4,0,0,4,1
+2020,Elman FC,Raadsan FC,2,1,1,-1,1,2,1,3,8,3,1,1,3,0
+2021,Heegan SC,Midnimo FC,1,0,1,-1,2,3,1,7,9,5,1,1,5,0
+2021,Geeska Afrika FC,Jeenyo FC,0,0,0,0,0,0,0,0,2,0,1,1,0,1
+2021,Raadsan FC,Horseed SC,1,0,1,-1,2,4,1,8,13,1,2,2,1,1
+2021,Elman FC,Mogadishu City Club,0,1,-1,1,1,1,-1,3,6,2,7,7,2,9
+2021,Dekedda SC,Gaadiidka FC,1,1,0,0,1,3,0,5,9,8,1,1,8,7
+2021,Jeenyo FC,Heegan SC,1,2,-1,1,3,3,-1,9,11,2,7,7,2,7
+2021,Midnimo FC,Horseed SC,0,2,-2,2,2,4,-1,7,13,0,5,5,0,0
+2021,Geeska Afrika FC,Mogadishu City Club,0,2,-2,2,0,1,-1,0,6,0,2,2,0,0
+2021,Raadsan FC,Gaadiidka FC,1,0,1,-1,2,3,1,8,9,2,1,1,2,1
+2021,Elman FC,Dekedda SC,2,1,1,-1,1,3,1,3,10,7,7,7,7,3
+2021,Heegan SC,Horseed SC,1,1,0,0,2,4,0,7,13,6,3,3,6,8
+2021,Jeenyo FC,Mogadishu City Club,1,0,1,-1,3,1,1,9,6,4,8,8,4,4
+2021,Midnimo FC,Gaadiidka FC,1,1,0,0,2,3,0,7,9,2,2,2,2,1
+2021,Geeska Afrika FC,Dekedda SC,0,3,-3,3,0,3,-1,0,10,1,1,1,1,0
+2021,Raadsan FC,Elman FC,1,0,1,-1,2,1,1,8,5,1,3,3,1,0
+2021,Mogadishu City Club,Heegan SC,3,2,1,-1,3,3,1,11,11,6,3,3,6,8
+2021,Horseed SC,Gaadiidka FC,1,3,-2,2,3,3,-1,11,9,8,4,4,8,4
+2021,Jeenyo FC,Dekedda SC,0,4,-4,4,3,3,-1,9,10,4,8,8,4,4
+2021,Midnimo FC,Elman FC,1,0,1,-1,2,1,1,7,5,3,0,0,3,2
+2021,Geeska Afrika FC,Raadsan FC,0,2,-2,2,0,2,-1,0,8,1,4,4,1,1
+2021,Heegan SC,Gaadiidka FC,3,0,3,-3,2,3,1,7,9,12,1,1,12,2
+2021,Mogadishu City Club,Dekedda SC,1,0,1,-1,3,3,1,11,10,5,6,6,5,6
+2021,Horseed SC,Elman FC,3,0,3,-3,3,1,1,11,5,6,6,6,6,5
+2021,Jeenyo FC,Raadsan FC,1,1,0,0,3,2,0,9,8,0,0,0,0,2
+2021,Midnimo FC,Geeska Afrika FC,2,1,1,-1,2,1,1,7,4,4,2,2,4,0
+2021,Dekedda SC,Heegan SC,0,0,0,0,1,3,0,5,11,6,6,6,6,6
+2021,Gaadiidka FC,Elman FC,0,1,-1,1,0,1,-1,1,5,4,9,9,4,2
+2021,Mogadishu City Club,Raadsan FC,1,0,1,-1,3,2,1,11,8,1,1,1,1,1
+2021,Horseed SC,Geeska Afrika FC,3,1,2,-2,3,1,1,11,4,2,0,0,2,0
+2021,Jeenyo FC,Midnimo FC,1,0,1,-1,3,3,1,9,9,1,2,2,1,1
+2021,Heegan SC,Elman FC,1,0,1,-1,2,1,1,7,5,6,6,6,6,6
+2021,Dekedda SC,Raadsan FC,1,2,-1,1,1,2,-1,5,8,2,1,1,2,0
+2021,Gaadiidka FC,Geeska Afrika FC,6,0,6,-6,0,1,1,1,4,2,0,0,2,0
+2021,Mogadishu City Club,Midnimo FC,1,0,1,-1,3,3,1,11,9,4,0,0,4,1
+2021,Horseed SC,Jeenyo FC,3,0,3,-3,3,0,1,11,2,6,7,7,6,3
+2021,Raadsan FC,Heegan SC,0,0,0,0,2,3,0,8,11,1,1,1,1,1
+2021,Elman FC,Geeska Afrika FC,4,0,4,-4,1,1,1,3,4,2,0,0,2,0
+2021,Dekedda SC,Midnimo FC,1,2,-1,1,1,3,-1,5,9,2,1,1,2,3
+2021,Gaadiidka FC,Jeenyo FC,2,2,0,0,0,0,0,1,2,6,4,4,6,4
+2021,Mogadishu City Club,Horseed SC,1,1,0,0,3,4,0,11,13,8,3,3,8,7
+2021,Heegan SC,Geeska Afrika FC,1,1,0,0,2,1,0,7,4,1,0,0,1,1
+2021,Raadsan FC,Midnimo FC,1,0,1,-1,2,3,1,8,9,4,2,2,4,1
+2021,Elman FC,Jeenyo FC,1,2,-1,1,1,0,-1,3,2,4,5,5,4,7
+2021,Dekedda SC,Horseed SC,0,2,-2,2,1,4,-1,5,13,4,6,6,4,7
+2021,Gaadiidka FC,Mogadishu City Club,0,1,-1,1,0,1,-1,1,6,1,12,12,1,2
+2021,Heegan SC,Midnimo FC,2,1,1,-1,2,3,1,7,9,5,1,1,5,0
+2021,Jeenyo FC,Geeska Afrika FC,4,2,2,-2,3,1,1,9,4,1,0,0,1,1
+2021,Horseed SC,Raadsan FC,0,0,0,0,3,2,0,11,8,2,1,1,2,1
+2021,Mogadishu City Club,Elman FC,2,2,0,0,3,1,0,11,5,7,2,2,7,9
+2021,Gaadiidka FC,Dekedda SC,0,3,-3,3,0,3,-1,1,10,1,8,8,1,7
+2021,Heegan SC,Jeenyo FC,1,1,0,0,2,0,0,7,2,7,2,2,7,7
+2021,Horseed SC,Midnimo FC,5,2,3,-3,3,3,1,11,9,5,0,0,5,0
+2021,Mogadishu City Club,Geeska Afrika FC,4,0,4,-4,3,1,1,11,4,2,0,0,2,0
+2021,Gaadiidka FC,Raadsan FC,1,1,0,0,0,2,0,1,8,1,2,2,1,1
+2021,Dekedda SC,Elman FC,1,1,0,0,1,1,0,5,5,7,7,7,7,3
+2021,Horseed SC,Heegan SC,1,1,0,0,3,3,0,11,11,3,6,6,3,8
+2021,Mogadishu City Club,Jeenyo FC,2,1,1,-1,3,0,1,11,2,8,4,4,8,4
+2021,Gaadiidka FC,Midnimo FC,1,2,-1,1,0,3,-1,1,9,2,2,2,2,1
+2021,Dekedda SC,Geeska Afrika FC,1,2,-1,1,1,1,-1,5,4,1,1,1,1,0
+2021,Elman FC,Raadsan FC,3,2,1,-1,1,2,1,3,8,3,1,1,3,0
+2021,Heegan SC,Mogadishu City Club,1,0,1,-1,2,1,1,7,6,3,6,6,3,8
+2021,Gaadiidka FC,Horseed SC,0,5,-5,5,0,4,-1,1,13,4,8,8,4,4
+2021,Dekedda SC,Jeenyo FC,3,1,2,-2,1,0,1,5,2,8,4,4,8,4
+2021,Elman FC,Midnimo FC,0,2,-2,2,1,3,-1,3,9,0,3,3,0,2
+2021,Raadsan FC,Geeska Afrika FC,3,0,3,-3,2,1,1,8,4,4,1,1,4,1
+2021,Gaadiidka FC,Heegan SC,2,3,-1,1,0,3,-1,1,11,1,12,12,1,2
+2021,Dekedda SC,Mogadishu City Club,1,1,0,0,1,1,0,5,6,6,5,5,6,6
+2021,Horseed SC,Elman FC,2,0,2,-2,3,1,1,11,5,6,6,6,6,5
+2021,Raadsan FC,Jeenyo FC,0,0,0,0,2,0,0,8,2,0,0,0,0,2
+2021,Geeska Afrika FC,Midnimo FC,0,4,-4,4,0,3,-1,0,9,2,4,4,2,0
+2021,Heegan SC,Dekedda SC,1,5,-4,4,2,3,-1,7,10,6,6,6,6,6
+2021,Elman FC,Gaadiidka FC,0,2,-2,2,1,3,-1,3,9,9,4,4,9,2
+2021,Raadsan FC,Mogadishu City Club,1,1,0,0,2,1,0,8,6,1,1,1,1,1
+2021,Geeska Afrika FC,Horseed SC,0,4,-4,4,0,4,-1,0,13,0,2,2,0,0
+2021,Midnimo FC,Jeenyo FC,1,0,1,-1,2,0,1,7,2,2,1,1,2,1
+2021,Elman FC,Heegan SC,1,2,-1,1,1,3,-1,3,11,6,6,6,6,6
+2021,Raadsan FC,Dekedda SC,0,2,-2,2,2,3,-1,8,10,1,2,2,1,0
+2021,Geeska Afrika FC,Gaadiidka FC,1,8,-7,7,0,3,-1,0,9,0,2,2,0,0
+2021,Midnimo FC,Mogadishu City Club,0,2,-2,2,2,1,-1,7,6,0,4,4,0,1
+2021,Jeenyo FC,Horseed SC,1,3,-2,2,3,4,-1,9,13,7,6,6,7,3
+2021,Heegan SC,Raadsan FC,0,1,-1,1,2,2,-1,7,8,1,1,1,1,1
+2021,Geeska Afrika FC,Elman FC,0,5,-5,5,0,1,-1,0,5,0,2,2,0,0
+2021,Midnimo FC,Dekedda SC,0,0,0,0,2,3,0,7,10,1,2,2,1,3
+2021,Jeenyo FC,Gaadiidka FC,1,2,-1,1,3,3,-1,9,9,4,6,6,4,4
+2021,Horseed SC,Mogadishu City Club,0,0,0,0,3,1,0,11,6,3,8,8,3,7
+2021,Geeska Afrika FC,Heegan SC,0,13,-13,13,0,3,-1,0,11,0,1,1,0,1
+2021,Midnimo FC,Raadsan FC,0,2,-2,2,2,2,-1,7,8,2,4,4,2,1
+2021,Jeenyo FC,Elman FC,2,1,1,-1,3,1,1,9,5,5,4,4,5,7
+2021,Horseed SC,Dekedda SC,1,0,1,-1,3,3,1,11,10,6,4,4,6,7
+2021,Mogadishu City Club,Gaadiidka FC,4,2,2,-2,3,3,1,11,9,12,1,1,12,2
