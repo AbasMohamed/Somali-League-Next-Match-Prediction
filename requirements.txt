@@ -17,3 +17,6 @@ pymongo
 MongoClient
 bson
 ObjectId
+scipy.stats
+streamlit.components.v1
+sklearn.preprocessing
